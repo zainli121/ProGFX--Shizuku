@@ -1,0 +1,1 @@
+Gradle wrapper placeholder. If build fails, open project in Android Studio and generate wrapper.
